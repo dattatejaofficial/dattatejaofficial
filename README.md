@@ -9,7 +9,7 @@ I am a Data Science Enthusiastic who is pursuing BTech in Alliance University. I
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [dattateja1234@gmail.com](mailto:dattateja1234@gmail.com)
 * 🚀  I'm currently working on [E-Book Management System](http://github.com/dattatejaofficial/E-Book-Management-System)
-* 🧠  I'm learning Time Series Forecasting
+* 🧠  Currently I'm learning Time Series Forecasting
 * 🤝  I'm open to collaborating on Interesting Projects related to Data Science, Backend and Database Development
 
 ### Skills
@@ -29,5 +29,3 @@ I am a Data Science Enthusiastic who is pursuing BTech in Alliance University. I
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dattatejaofficial"><img src="https://github-readme-stats.vercel.app/api?username=dattatejaofficial&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dattatejaofficial's GitHub stats" /></a>
-
-<a href="http://www.github.com/dattatejaofficial"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dattatejaofficial&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
